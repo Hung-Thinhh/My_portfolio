@@ -19,7 +19,7 @@ npm run dev
 + and more....
 
 ## live preview link
-[See Now](https://codeaprogram-portfolio.web.app/)
+[See Now](https://ht90portfolio.vercel.app/)
 
 ## Startup repository link
 [Repository](https://github.com/Hung-Thinhh/My_portfolio)
